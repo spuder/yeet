@@ -54,9 +54,11 @@ If you still _really_ want this, downloads are available on the releases page. I
 
 https://github.com/spuder/yeet/releases
 
-Apple (Intel) = yeet-v0.1.0-darwin-amd64.tar.gz  
-Apple (M1/ARM) = yeet-v0.1.0-darwin-arm64.tar.gz  
-Linux (32 bit) = yeet-v0.1.0-linux-386.tar.gz  
-Linux (64 bit) = yeet-v0.1.0-linux-amd64.tar.gz  
-Linux (M1/ARM) = yeet-v0.1.0-linux-arm64.tar.gz  
-Windows (Intel/AMD) = yeet-v0.1.0-windows-amd64.tar.gz  
+| CPU Type | Build | 
+| --- | --- |
+|Apple (Intel) | yeet-v0.1.0-darwin-amd64.tar.gz  |
+|Apple (M1/ARM) | yeet-v0.1.0-darwin-arm64.tar.gz  |
+|Linux (32 bit) | yeet-v0.1.0-linux-386.tar.gz  |
+|Linux (64 bit) | yeet-v0.1.0-linux-amd64.tar.gz  |
+|Linux (M1/ARM) | yeet-v0.1.0-linux-arm64.tar.gz  |
+|Windows (Intel/AMD) | yeet-v0.1.0-windows-amd64.tar.gz  |
