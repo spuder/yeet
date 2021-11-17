@@ -39,7 +39,7 @@ $ yeet yes | sudo apt install foobar
 
 ## Why would anyone want this? :confused:
 
-You don't. :stop: Please don't use this. Its stupid and pointless and you really shouldn't install it on a production server.
+You don't. :stop_sign: Please don't use this. Its stupid and pointless and you really shouldn't install it on a production server.
 
 
 ## No really, why did you make this?  :see_no_evil:
