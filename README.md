@@ -50,7 +50,7 @@ You don't. :stop_sign: Please don't use this. Its stupid and pointless and you r
 
 ## Installing :floppy_disk:
 
-If you still _really_ want this, downloads are available on the releases page. Including `darwin-arm64` for Apple M1 Silicon and Raspberry Pi.
+If you still _really_ want this, downloads are available on the releases page. Including `darwin-arm64` for Apple M1 Silicon and `linux-arm64` Raspberry Pi.
 
 https://github.com/spuder/yeet/releases
 
