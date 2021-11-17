@@ -46,3 +46,17 @@ You don't. :stop_sign: Please don't use this. Its stupid and pointless and you r
 
 - Daily challenge to learn go. 
 - Wanted to publish something with github actions. 
+
+
+## Installing :floppy_disk:
+
+If you still _really_ want this, downloads are available on the releases page. Including `darwin-arm64` for Apple M1 Silicon and Raspberry Pi.
+
+https://github.com/spuder/yeet/releases
+
+Apple (Intel) = yeet-v0.1.0-darwin-amd64.tar.gz
+Apple (M1/ARM) = yeet-v0.1.0-darwin-arm64.tar.gz
+Linux (32 bit) = yeet-v0.1.0-linux-386.tar.gz
+Linux (64 bit) = yeet-v0.1.0-linux-amd64.tar.gz
+Linux (M1/ARM) = yeet-v0.1.0-linux-arm64.tar.gz
+Windows (Intel/AMD) = yeet-v0.1.0-windows-amd64.tar.gz
