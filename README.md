@@ -42,7 +42,7 @@ $ yeet yes | sudo apt install foobar
 You don't. :stop: Please don't use this. Its stupid and pointless and you really shouldn't install it on a production server.
 
 
-## No really, why did you make this?  
+## No really, why did you make this?  :see_no_evil:
 
-- Daily challenge to learn go.  
+- Daily challenge to learn go. 
 - Wanted to publish something with github actions. 
